@@ -1,1 +1,1 @@
-# prelaunchsketch
+Just an HTML mockup of a pre-mission launch screen for infiltration missions.
